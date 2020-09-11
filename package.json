@@ -1,0 +1,12 @@
+{
+  "name": "vue-gsap-slider-wapper",
+  "version": "1.0",
+  "scripts": {
+    "dev": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "gsap": "^3.5.1"
+  }
+}
