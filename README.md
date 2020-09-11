@@ -6,7 +6,7 @@
 
 ### 效果
 
-![](https://cdn.jsdelivr.net/gh/fz6m/Private-picgo@moe/img/20200912034519.gif)
+![](https://cdn.jsdelivr.net/gh/fz6m/Private-picgo@moe/img/20200912035438.gif)
 
 ### 使用
 
@@ -30,8 +30,8 @@
 
 ```css
     body {
-    margin: 0;
-    padding: 0;
+        margin: 0;
+        padding: 0;
     }
 ```
 
