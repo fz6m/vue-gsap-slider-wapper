@@ -6,7 +6,7 @@
 
 ### 效果
 
-<iframe height=222 width=500 src="https://cdn.jsdelivr.net/gh/fz6m/Private-picgo@moe/img/20200912034519.gif" >
+![](https://cdn.jsdelivr.net/gh/fz6m/Private-picgo@moe/img/20200912034519.gif)
 
 ### 使用
 
