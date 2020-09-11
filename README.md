@@ -6,7 +6,7 @@
 
 ### 效果
 
-![](https://cdn.jsdelivr.net/gh/fz6m/Private-picgo@moe/img/20200912034519.gif)
+<img src='https://cdn.jsdelivr.net/gh/fz6m/Private-picgo@moe/img/20200912034519.gif' />
 
 ### 使用
 
